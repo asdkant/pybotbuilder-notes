@@ -1,5 +1,5 @@
 
-# QnAmaker query result
+# QnAmaker query result data models
 
 [`query_result.py`](https://github.com/microsoft/botbuilder-python/blob/master/libraries/botbuilder-ai/botbuilder/ai/qna/models/query_result.py)
 
